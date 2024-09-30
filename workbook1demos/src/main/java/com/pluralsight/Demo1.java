@@ -4,7 +4,6 @@ public class Demo1 {
 
     public static void main(String[] args) {
 
-
         char status = 'm'; // declaration and initialization            DATA TYPE: char
         int identifier = 1; // declaration and initialization           DATA TYPE: int
         String name = "Yiming";   // declaration and initialization     DATA TYPE: String
